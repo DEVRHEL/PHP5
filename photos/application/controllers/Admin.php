@@ -242,6 +242,7 @@ class Admin extends CI_Controller {
 			$this->index(0,$error);
 		}
 	}
+
 	public function Test1()
 	{
 		echo "hihi";
@@ -250,6 +251,7 @@ class Admin extends CI_Controller {
 	{
 		$this->Test1();
 	}
+
 
 }
 
